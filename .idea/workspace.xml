@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3a901e9-44aa-4ad8-bb26-c1ee61fce134" name="Default Changelist" comment="" />
+    <list default="true" id="b3a901e9-44aa-4ad8-bb26-c1ee61fce134" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/5468ce6a80912b5a4cbab2cc5567cfe40c46f778" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/5468ce6a80912b5a4cbab2cc5567cfe40c46f778" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +14,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mK3Gs5TGszqWvMHmXxrrje2FCp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,7 +40,15 @@
       <updated>1609228363087</updated>
       <workItem from="1609228364215" duration="943000" />
       <workItem from="1609229665371" duration="17641000" />
-      <workItem from="1609305550897" duration="12863000" />
+      <workItem from="1609305550897" duration="17683000" />
+      <workItem from="1609399747682" duration="19255000" />
+      <workItem from="1609738586092" duration="15947000" />
+      <workItem from="1609828283755" duration="15654000" />
+      <workItem from="1609909304197" duration="14174000" />
+      <workItem from="1609995637659" duration="3974000" />
+      <workItem from="1610082057025" duration="2360000" />
+      <workItem from="1610343198916" duration="19148000" />
+      <workItem from="1610429930591" duration="13622000" />
     </task>
     <servers />
   </component>
@@ -40,13 +56,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1609320326014">
+    <state x="507" y="87" key="NewPhpClassDialog" timestamp="1610343392723">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1609320326014" />
+    <state x="507" y="87" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1610343392723" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1610433702520">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1610433702520" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1609228407692">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609228407692" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1610435633721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1610435633721" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1610353112036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1610353112036" />
   </component>
 </project>
